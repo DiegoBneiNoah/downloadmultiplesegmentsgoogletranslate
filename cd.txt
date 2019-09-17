@@ -1,0 +1,6 @@
+OPTION 1 DEFAULT: export PATH=$PATH:$pwd; cp '/home/diego/Yandex.Disk_oz_marmot/PODCASTS/LIVROS/TXT/LIVROS/IN_FOREST_FIELDS/PAGE2/HAR/full.sh' full.sh; full.sh
+
+OPTION 2 OPTIONAL TO FAST ACCESS TO OTHER NEXT FOLDERS: cd ../*E5; export PATH=$PATH:$pwd; cp '/home/diego/Yandex.Disk_oz_marmot/PODCASTS/LIVROS/TXT/LIVROS/IN_FOREST_FIELDS/PAGE2/HAR/full.sh' full.sh; full.sh
+
+OPTION 3 OPTIONAL TO FAST ACCESS TO OTHER NEXT FOLDERS WITH CREATING SEQUENCY FOLDERS: cd ..; mkdir PAGE5/ cd PAGE5; export PATH=$PATH:$pwd; cp '/home/diego/Yandex.Disk_oz_marmot/PODCASTS/LIVROS/TXT/LIVROS/IN_FOREST_FIELDS/PAGE2/HAR/full.sh' full.sh; full.sh
+
